@@ -1,0 +1,4 @@
+program semfail
+	local fake;
+	sem = 0.01;
+end program semfail

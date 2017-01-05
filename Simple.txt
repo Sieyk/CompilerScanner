@@ -1,0 +1,4 @@
+program simple
+	local done;
+	printline;
+end program simple

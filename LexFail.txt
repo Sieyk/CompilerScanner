@@ -1,0 +1,4 @@
+program lexfail
+	local lex;
+	lex = 01.01;
+end program lexfail

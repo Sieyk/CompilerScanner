@@ -1,0 +1,4 @@
+program synfail
+	local syn;
+	syn = + 0.01;
+end program synfail

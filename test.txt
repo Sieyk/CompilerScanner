@@ -1,0 +1,15 @@
+val add = (13+=12.5)
++/+
+testseghgfhmjgmhchmrdmdrg
+mrdmdrtmrdtghbrdhbrhdrhtrd
+thrdtthrdthrdthdrthrdthrdth
+rdthdrthdrtthdrthrdthdrth
+weafewfawef+/+
++/+
+var iden1 = "test str"
+var iden2 = "new line break test
+val zerotest = 0.02
+val zerofailtest = 01.02
+val basicarith = 1+1 //comment test
++/ +/ val gnarbar = 5
+123abc valid 123acb.123 123.123abc 123.abc123

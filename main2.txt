@@ -1,0 +1,13 @@
+program main2
+	proc procmain val someint
+		loop mainloop
+			printline someint;
+			someint += 1;
+			exit mainloop when someint == 1000;
+		end loop mainloop
+	end proc procmain
+
+	local sendint;
+	sendint = 0;
+	call mainloop with sendint;
+end program main2

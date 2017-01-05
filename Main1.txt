@@ -1,0 +1,15 @@
+program main1
+	local main, arr1[1], arr2[1];
+	main = 0.01;
+	arr1[0] = 5;
+	arr2[0] = 4;
+	if main < arr1[0] and arr1[0] > arr2[0] then
+		main = main * 2;
+	elsif main >= 1 then
+		main = main / 2.01;
+		arr2[0] = arr2[0] / 2.01;
+	else
+		main = main * 1.5;
+		arr1[0] = arr1[0] / 2.01;
+	end if
+end program main1
